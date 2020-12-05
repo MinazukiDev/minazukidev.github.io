@@ -1,0 +1,40 @@
+{
+   {
+   "name": "Minazuki’s Repo",
+   "icon": "",
+   "description": "Minazuki’s Repo Sigin in",
+   "authentication_banner": {
+      "message": "For developers only",
+      "button": "Sign in"
+   },
+   },
+   "class":"FeaturedBannersView",
+   "itemSize":"{296, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+      {
+         "url":"https://minazukidev.github.io/banner/debinstallerbanner.png",
+         "title":"DebInstaller",
+         "package":"com.minazuki.debinstaller",
+         "hideShadow":true
+      },
+      {
+         "url":"https://minazukidev.github.io/banner/cccellbanner.png",
+         "title":" CCcell",
+         "package":"com.minazuki.cccell",
+         "hideShadow":true
+      },
+      {
+         "url":"https://minazukidev.github.io/banner/fimagebanner.png",
+         "title":"FImage",
+         "package":"com.minazuki.fimage",
+         "hideShadow":true
+      },
+      {
+         "url":"https://minazukidev.github.io/banner/folderelectrobanner.png",
+         "title":"Folder Electro",
+         "package":"com.minazuki.folderelectro",
+         "hideShadow":true
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+/**
+RepoMainPage.css
+
+Copyright (c) 2019 PetitStrawberry
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
+
+#add-repo-box #add-repo div {
+    max-width: 400px;
+    margin: 0 auto
+}
+
+#add-repo-box #add-repo img {
+    float: left;
+    margin-right: 16px
+}
+
+#add-repo-box #add-repo p {
+    margin: 2px 0;
+    padding: 0;
+}
+
+.add-repo-bannar-space {
+    display: block;
+    clear: both;
+}
+
+
+#add-repo-box a {
+    color: blue;
+}
+
+#featured a {
+    color: blue;
+}
+
+#featured p {
+    font-size: 13px;
+    color: black;
+}

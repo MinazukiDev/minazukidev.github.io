@@ -1,0 +1,54 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.1",
+	"headerImage": "https://minazukidev.github.io/banner/cccellbanner.png",
+	"tintColor": "#00ff00",
+	"tabs":
+	[
+		{
+			"class":"DepictionStackView",
+			"tabname": "Details",
+			"views":
+			[
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Finer width of the control center.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Package",
+					"text": "com.minazuki.cccell"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Developer",
+					"text": "Minazuki"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Section",
+					"text": "Tweaks"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Suitable iOS",
+					"text": "12.0~12.4"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Github",
+					"action" : "https://github.com/MinazukiDev"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Follow me on Twitter",
+					"action" : "https://twitter.com/Minazuki_dev"
+				}
+			]
+		}
+	]
+}

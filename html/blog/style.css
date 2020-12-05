@@ -1,0 +1,87 @@
+body {
+  background: #efeff5;
+font-family:
+'Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+}
+
+h1 {
+	 position: relative;
+	 text-align: left;
+    font-size: 16px;
+    top: 5px;
+}
+
+.a {
+    margin-left: 20px;
+}
+
+img {
+    border-radius: 20%;
+}
+
+.top {
+    padding: 1.4em 1em;
+    background: -moz-linear-gradient(#0000ff, #00FFFF);
+    background: -webkit-linear-gradient(#0000ff, #00FFFF);
+    background: linear-gradient(to right, #0000ff, #00FFFF);
+    color: #FFF;
+}
+.top p {
+	 position: relative;
+	 text-align: left;
+    margin: 0; 
+    padding: 0;
+    font-size: 16px;
+}
+
+.update p {
+	 position: relative;
+	 text-align: left;
+    top: 15px;
+    left: 8px;
+    margin: 0; 
+    padding: 0;
+    font-size: 12px;
+}
+
+a.cp_btn {
+	position: relative;
+	display: block;
+	width: 370px;
+	padding: 0.6em;
+	text-align: left;
+   top: 25px;
+   font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #323232;
+	text-shadow: 0 0 5px rgba(255, 255, 255, 0.0);
+	background: #fff;
+	transition: .4s;
+	border-radius: 0px;
+   border-top: solid 1px #999999;
+   border-bottom: solid 1px #999999;
+}
+
+a.cp_btn:hover {
+   background: #ccc;
+}
+
+a.cp_btn { 
+     position: relative;
+     padding-left: 15px;
+}
+
+a.cp_btn::before {
+     position: absolute;
+     right: 10px;
+     content: '';
+     width: 6px;
+     height: 6px;
+     border-top: solid 2px #697b91;
+     border-right: solid 2px #697b91;
+     -webkit-transform: rotate(45deg);
+     transform: rotate(45deg);
+     top: 50%;
+     margin-top: -3px;
+}

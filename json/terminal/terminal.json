@@ -1,0 +1,34 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.1",
+	"headerImage": "https://minazukidev.github.io/banner/terminalbanner.png",
+	"tintColor": "#000000",
+	"tabs":
+	[
+		{
+			"class":"DepictionStackView",
+			"tabname": "Details",
+			"views":
+			[
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Terminal Support (Chimera).",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Github",
+					"action" : "https://github.com/MinazukiDev"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Follow me on Twitter",
+					"action" : "https://twitter.com/Minazuki_dev"
+				}
+			]
+		}
+	]
+}

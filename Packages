@@ -1,0 +1,965 @@
+Package: com.minazuki.bluebadge
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Minazuki <minazukidev@gmail.com>
+Depends: com.spark.snowboard
+Filename: ./deb/BlueBadge.deb
+Size: 3318
+MD5sum: 0c0dda7bd1e692ad5d2722b6b17fdf68
+SHA1: b5a205ea6b037dbbd6238d34022d075214cf7baf
+SHA256: bb0200d1199cf469f33e53721c7b8b7766ccbef5299c55ac9c73fdf53ed37ce5
+SHA512: e8147dafa2029afb2276feeefd23051c1926ae99a8b388051395f68c3f2f24f19ee603d7adbf52d2579aed0681582d88d82b2c04094a81706bffa50ea6c53d06
+Description: The color of the badge is blue!
+Name: BlueBadge
+Depiction: https://minazukidev.github.io/html/BlueBadge/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.aptftparchive
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: Minazuki
+Installed-Size: 104
+Depends:
+Filename: ./deb/aptf.deb
+Size: 78704
+MD5sum: 773e66197c1f67265b2fe8bf32eb4b97
+SHA1: 70f3a3d73d5aeb513c0b8e2a4edc65f0933d68fd
+SHA256: 8106549dbc97c572b08674a4e95d52cbf3210daff0aba28204fcc484c667db2e
+SHA512: f4ffa6915b82121ac6fcd0e81feed3a82e769cfbe3d88d0af4bd544a2aab51e2c1a0d3f3525a224792f848dbfae9d262f5b05c9ffe0ff4852e8c2da62587a312
+Homepage:
+Description: apt-ftparchive
+Tag: purpose::extension
+Author: Minazuki
+Name: apt-ftparchive
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
+Depiction:
+Sponsor:
+dev: Rowl
+icon: https://minazukidev.github.io/icon/systemicon.png
+
+Package: com.minazuki.acf
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.acf_0.0.1_iphoneos-arm.deb
+Size: 3994
+MD5sum: f35bcb2004755b8d30c0fcca867052cf
+SHA1: 17f01d1b3cd08ce992c49124395e95586372d59d
+SHA256: b1bd3358fb28f8efb5d93a66a619432d62305b17599cd4c402cbfb199ca487db
+SHA512: 60c4ba926dd8a13c3e10eee99e345a8cb0da4eb148e6d1f13ac8e57b6e768ec3fb824c3d5e89eb27ef157d3afb93a550cb8918fb66f2668a7ad470385532e5b2
+Description: Automatically close folders.
+Name: AutoCloseFolder
+Depiction: https://minazukidev.github.io/html/AutoCloseFolder/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.badgeview
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 380
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./deb/com.minazuki.badgeview_0.0.1_iphoneos-arm.deb
+Size: 73158
+MD5sum: 99f9c6f3108224fd8ad96218708e6e56
+SHA1: 675237151ffbc8f03b27e035f068db5469fbe59c
+SHA256: cbe048f1863220330e0d2be745000e22af9e7b4bf8722268abe4b59eb18f7121
+SHA512: 53c1d0227d83dceb1615f76df0423062f5f92aaf585ff59493bfdfbebf3966478bb99c9fa06cc699b8b7d89b976bc2cc1f657a12c33ca98382464904d2b31926
+Description: Adjust notification badges.
+Name: BadgeView
+Depiction: https://minazukidev.github.io/html/BadgeView/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.bigbatteryx
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.bigbatteryx_0.0.1_iphoneos-arm.deb
+Size: 3894
+MD5sum: 896155df8862a7573e241735e94f3d4b
+SHA1: 9e73e85247a1d292d232085383bcc07bcba856fa
+SHA256: 9a4109a4eaf6aec686d3c03d4572ea1bfdd0b965d1b743b60710b3f14d007c4e
+SHA512: aa699836a5d2a49ffd46e204db75b4cff193235bdcc4d306a99cec54bfbbc8c72621fb0965c5e51001784ffbbfe40fec3c01de00471539016d904157ed07b65a
+Description: Increase the battery mark on iPhone X and later devices.
+Name: BigBatteryX
+Depiction: https://minazukidev.github.io/html/BigBatteryX/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.cccell
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 260
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.cccell_1.0_iphoneos-arm.deb
+Size: 28964
+MD5sum: 945eb605e4c926f968e49ecf16fdbe19
+SHA1: 7a295295aaf7c45e93bdd476987f51a6734cfcb9
+SHA256: 2790cc0445930af06b4e312ad2f5f4000da4f3610d49538628b4a0015c726958
+SHA512: d69c558aa5755068c5105e92eec46b7e17fe0afa0f0fcc8e01aec40fca29ec524a56791defb6639dbee33db184b4d48a883eb36b9da0e6321ad3cf7ba3e7b1fa
+Description: Finer width of the control center.
+Name: CCcell
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/cccellicon.png
+
+Package: com.minazuki.cccell
+Architecture: iphoneos-arm
+Version: 1.1-A12
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.cccell_1.1-A12_iphoneos-arm.deb
+Size: 15522
+MD5sum: 9c514953fc55dbef5f3c03915e0b4644
+SHA1: 66cd9b72abc1cdb60604329cecd81fc71327f631
+SHA256: d9c9fd3144ce40be7e71b5ff5ea9eb4a054daab1d5fcd94dcd290df9df7431b7
+SHA512: 445cab171fafd5466abbc145db19ba3c1056a18293a99f561dde117d535909b7063365bd320da6ce9d2c24c9e3fcf7b923095d3be4e1c86d3163a1b47c1c3d42
+Description: Finer width of the control center.
+Name: CCcell
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/cccellicon.png
+
+Package: com.minazuki.cccell
+Architecture: iphoneos-arm
+Version: 1.2-A12
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.cccell_1.2-A12_iphoneos-arm.deb
+Size: 14920
+MD5sum: 91702acd72080869e787744bee6032b5
+SHA1: d6d96ce984b4acdb2325f7ac8b17682f89999e25
+SHA256: 533150e8e41fb5b859dd853849ac9b87031b292e7123b33579d8e28d87b44644
+SHA512: ef78443dfcf921a4b740674504fd823dfb011f8809decceff98707e78f182d36ab94acf64c6cdcf10e2ddce6143c54a9a3f601a3da1e98024febdddaeb8602fe
+Description: Finer width of the control center.
+Name: CCcell
+SileoDepiction: https://minazukidev.github.io/json/cccell/cccell.json
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/cccellicon.png
+
+Package: com.minazuki.cccell
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./deb/com.minazuki.cccell_1.3_iphoneos-arm.deb
+Size: 21938
+MD5sum: 1ef41df75d3fe4477c54ecfdf21964a8
+SHA1: 5860b5a7440fbe262cb2e04356af286a7cacdd76
+SHA256: 4670507e50f15aa077530cb703f7272560fad84262201a9aab30274849ca2784
+SHA512: c64bd695b6659a38e18fb05e66d61f42c530b332a62b426d5187f9a462ce0b38591916f2edf36668c33493fcbda41f92de3e731e348367ce3d0372aa856acf1d
+Description: Finer width of the control center.
+Name: CCcell (iOS12)
+Depiction: https://minazukidev.github.io/html/cccell/index.html
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/cccellicon.png
+
+Package: com.minazuki.customnopostlabel
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.customnopostlabel_0.0.1_iphoneos-arm.deb
+Size: 4328
+MD5sum: 82f2551f8c2678d3afd27de38b60319a
+SHA1: f244002da81d500e7c08fc6d9c9e84ddd2b14783
+SHA256: 031856eab1494d3301579e761a66c7eba205fe0d578d96e93b3e9869076cdd47
+SHA512: a7014c960eeef1d1fd8401dcc41dbc360bab24e5110400dbdd445f7515919abb6da90ec6366cc34074e499f46140d2ba85fad80730784cb9674ecffd9cd6325c
+Description: Change "There is no previous notification".
+Name: CustomNoPostLabel
+Depiction: https://minazukidev.github.io/html/CustomNoPostLabel/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.debinstaller
+Architecture: iphoneos-arm
+Version: 1.0-beta1
+Section: Utilities
+Maintainer: Minazuki
+Installed-Size: 80
+Filename: ./deb/com.minazuki.debinstaller_1.0-beta1_iphoneos-arm.deb
+Size: 15482
+MD5sum: f58ac605d641c3fe1ef48177dc4d8a25
+SHA1: 328789ad26e656e3d274563502b65af9c10496a5
+SHA256: 956a31768950c6c9cedd2c5440c256e54e4dad0743e283c6a848a0096915ba89
+SHA512: 5471a63d71bb7a2636065ff29cd98b342fc14c5d32a7e56c911411d74e65ce6bc22336a4936071657470e4be5bc1e2c31246d3123bfd9fe0305eeb77a243f35c
+Description: Install many deb files at once.
+Name: Deb Installer (BETA)
+SileoDepiction: https://minazukidev.github.io/json/debinstaller/debinstaller.json
+Depiction: https://minazukidev.github.io/html/debinstaller/index.html
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/debinstallericon.png
+
+Package: com.minazuki.debinstaller
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Utilities
+Maintainer: Minazuki
+Installed-Size: 96
+Filename: ./deb/com.minazuki.debinstaller_1.1_iphoneos-arm.deb
+Size: 19376
+MD5sum: 5fd935883a12a362ee8076735e39356c
+SHA1: 04264aa173b0103c0af717c537e138ab838d7a6d
+SHA256: 867d7755918095fc73d76cc9f6ce8b7f75bcff25fe9809aad8b3b9ef51aba60f
+SHA512: 54f52c181b59de489975f5a26f1e5241f3d29b580b49615b56d94f058d884d305660f5a4e90ccf0a630abb5d463af61facb0d159d1405291a64ceee0ab53afc9
+Description: Install many deb files at once. Not support Chimera.
+Name: Deb Installer (BETA)
+SileoDepiction: https://minazukidev.github.io/json/debinstaller/debinstaller.json
+Depiction: https://minazukidev.github.io/html/debinstaller/index.html
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/debinstallericon.png
+
+Package: com.minazuki.debinstaller
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Utilities
+Maintainer: Minazuki
+Installed-Size: 96
+Filename: ./deb/com.minazuki.debinstaller_1.2_iphoneos-arm.deb
+Size: 19690
+MD5sum: 29b5990a6dd1b2f6e398b1cff63bdf32
+SHA1: 91152b251f1f25c49248bcd923721ec89a4749c8
+SHA256: 98ab2fa219b72d03bcc70b28b52d042f1df2d9cb7d525cdeef9011bcbcb9046a
+SHA512: 05141f711f94a5db8bc5b36ffa75a85983ca9e7703831d802295bd5ed393101f1b4a464c28e0dcc4b5ff49f60e68ee6d87cf552bf030e69396458cde0bc6b03d
+Description: Install many deb files at once. Not support Chimera.
+Name: Deb Installer
+SileoDepiction: https://minazukidev.github.io/json/debinstaller/debinstaller.json
+Depiction: https://minazukidev.github.io/html/debinstaller/index.html
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/debinstallericon.png
+
+Package: com.minazuki.fimage
+Architecture: iphoneos-arm
+Version: 1.0-NotA12
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.fimage_1.0-NotA12_iphoneos-arm.deb
+Size: 65440
+MD5sum: e31f450f1a9b0354340b4b6410ce19da
+SHA1: 54fdadd20e9a852d79dc21870131b00db54613b9
+SHA256: 515c39bf8fe52df6a698a001ed3a721fb933bdd22296d08088594f65b7ac4eaf
+SHA512: eaeb6eea4c6491c11b480d846533dda19ed17608936b8550ceb59835043c9a136b156a35937a0d92ed5284a2f10e23d176ad740fcfe375e1beda832e91caab7e
+Description: Display an image on the background of an open folder.
+Name: FImage (iOS12)
+Depiction: https://minazukidev.github.io/html/fimage/index.html
+Author: Minazuki
+
+Package: com.minazuki.fimage
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 320
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.fimage_1.1_iphoneos-arm.deb
+Size: 37398
+MD5sum: e7d239bb1b3b7d71975a50b03dd44470
+SHA1: 4becdd9245ed028181639f569f085740ef1984d0
+SHA256: 2c369938ad4651a30be57933a6a7c5d84b50df07d543cc0cb3f337a5309720a7
+SHA512: a60e097bd06562d289ac9950d251a7b98211fb2fad852f76842af3b6f1e913ae6e5f35cc46dc85bee0bc7f8a7a890c5405640674101ae6d1ea21e3548729715b
+Description: Display an image on the background of an open folder.
+Name: FImage (iOS12)
+Depiction: https://minazukidev.github.io/html/fimage/index.html
+Author: Minazuki
+
+Package: com.minazuki.folderelectro
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 268
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.folderelectro_1.0_iphoneos-arm.deb
+Size: 30358
+MD5sum: 411e64c953cc8fb5e519eb8d8a95ea53
+SHA1: 048b2ce75e0876613e9b618e3dd421a64d4b739a
+SHA256: 89f37026cbd113dba62880b3257ab0bbd025917dd44b5d2c9511ffc1838acbd3
+SHA512: 2e3e069e758775c67dbbe863f2886c54557f33d5bc40999231e6ff0d04de251893ffb35d689d6435675c4bbd9f0c668e6c6717dc2b93004f5f04a19d609446c2
+Description: Customize folder.
+Name: Folder Electro
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/ folderelectro.png
+
+Package: com.minazuki.folderelectro
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 268
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.folderelectro_1.1_iphoneos-arm.deb
+Size: 31152
+MD5sum: 2ae0b08b8401964d76626b138f28ba87
+SHA1: b7cf92af7ea21ff80f7f66d3a9c76f36477f7723
+SHA256: b5488de9cab806257fea4fdf0db1f4c0d15e963883def5e56b6193437198b500
+SHA512: ce9c0d9ffaa1671d9f430ed558cc1e8c735d6f3ae7f117df727d7220ab362d787c30e0489b680f6bfd364384d8568656738d1afbf1ddb2e82f8540f25b3774ac
+Description: Customize folder.
+Name: Folder Electro
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/ folderelectro.png
+
+Package: com.minazuki.folderelectro
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 304
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker
+Filename: ./deb/com.minazuki.folderelectro_1.2_iphoneos-arm.deb
+Size: 21556
+MD5sum: 972de5b35ef039bff802c03633b40b35
+SHA1: 9495c3585fa3691a9af79f68c90a7824a71a700e
+SHA256: fa32c06b696ce39478686396f8b7d3aee191099a58fec5d0b261512ab1b686d1
+SHA512: 0a47ec86490f903a463d3446600db42e94252f76a3b424626fbbf2c8a51fd0b5c91e7f9622ebc3d1f0a3ebeabcd4c5c0ba3e9dbe509c4880c30094fdca3971e9
+Description: Customize folder.
+Name: Folder Electro
+Depiction: https://minazukidev.github.io/html/folderelectro/index.html
+Author: Minazuki
+icon: https://minazukidev.github.io/icon/folderelectroicon.png
+
+Package: com.minazuki.fsp
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.fsp_0.0.1_iphoneos-arm.deb
+Size: 3750
+MD5sum: 617f0e94026cd9c9202d0c6877a0447b
+SHA1: 59cc661d97e78850a335d8b5b8d655debcba1775
+SHA256: 54944fb274dae85d4052d47f5c21b7e7280c0561ef2d354ffcfa93c1ac28e323
+SHA512: ccadf38bf39c7452f7408fe6e06f52e6b4c59e274eaaeb6ae119a0f5b16f1a47113b4631a361a858191dd4800945dec00de4a6fd871ead8bc48188cf9f016954
+Description: Disguise as if you purchased a paid app.  Let's buy it properly.
+Name: FakeSileoPurchase
+Depiction: https://minazukidev.github.io/html/FakeSileoPurchase/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.hbsize
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.hbsize_0.0.1_iphoneos-arm.deb
+Size: 3944
+MD5sum: 885377788e05daa734483792d8a95b45
+SHA1: 163aacbe3e2c2e36c591291b143b86a27d9e3029
+SHA256: eb0845fc279660d8059918b03ace73d74815b87177c978e3381c9406cad800d9
+SHA512: e99322c5186ecaf07fb2a7b8a6029a86d3975662af90a762045978b1b342db9b186bda1a6cae3999011010b1325d2fc95a8579f7e21ad1327b40116df95b4894
+Description: Change the size of the home bar.
+Name: HomeBarSize
+Depiction: https://minazukidev.github.io/html/HomeBarSize/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.hidedockblur13
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.hidedockblur13_0.0.1_iphoneos-arm.deb
+Size: 4880
+MD5sum: 05e095e1fefd029f9efb02dd9cdbdfc9
+SHA1: 1496ee70e645c3579c58dd6af0de4385f29280d4
+SHA256: 8cf0296cef015d2ce402936296055e42d5cc21eb0365c32c65cbd342e30be566
+SHA512: e15f7b1fe82e31d770b685f340eb34a09aa3e0db96f42d82a5cafc54823d07d32ad77f359a929a394400038704a0078d91e91e903d21b020baacdbd102ac4e62
+Description: Hide the dock blur.
+Name: HideDockBlur13
+Depiction: https://minazukidev.github.io/html/HideDockBlur13/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.hideiconlabel
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.hideiconlabel_0.0.1_iphoneos-arm.deb
+Size: 3588
+MD5sum: 0e85d9840aee2fa97a50976302c93590
+SHA1: 06d69442b3e106114d48905cf30af561c3988170
+SHA256: 0478c45bfee0cf3960c6b4cf74365708c24fde1f763fbe9935d64822b85a0543
+SHA512: cc14b6be4020c8837611836892174535e7e3b6c73bfc2120efc35bdbfe3065319d52c93a058148355587c3470c9013df5a0876ec3057bb2778b7c1c5d7d67aaf
+Description: Hide the icon label.
+Name: HideIconLabel
+Depiction: https://minazukidev.github.io/html/HideIconLabel/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.hidencappname
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.hidencappname_0.0.1_iphoneos-arm.deb
+Size: 3518
+MD5sum: da752e6bd113e978cbe00a8113b16bed
+SHA1: d579511128c72126340cd38ec38c97a4d3f73eb4
+SHA256: 5756f2ce3557bc158a34f4870d0d5da95dc813d4a4437b96099f4d9aba6aaf1b
+SHA512: 0c1599bc14b148884dfe0375f59852a5cb1a902c64b066a4670ddb740af2b89ed2a0e157db12952b20c2485d4142fb8c77e487237416354308f984b57daf6751
+Description: Hide the app name in the notification.
+Name: HideNCAppName
+Depiction: https://minazukidev.github.io/html/HideNCAppName/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.homecleaner
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Minazuki
+Installed-Size: 316
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./deb/com.minazuki.homecleaner_1.0_iphoneos-arm.deb
+Size: 58864
+MD5sum: 0141210a25877b3fdb7f32e33a61134d
+SHA1: e387e62427192bfb5c0aac3c5cf77d720dd02eb9
+SHA256: 1db90bbd3a63006753300683916828406b7aca8eb34aec41894f950407efddde
+SHA512: 3311b865293b13cd72957a466186d9a2968302a3e0d192ec12c729242ce15e7364521fd4120e8cd6a2979132f8abefe2a5221ee05b0a00686bf8357d076f9d03
+Description: Clean your home screen!
+Name: Home Cleaner
+Depiction: https://minazukidev.github.io/html/hc/index.html
+Author: Minazuki
+
+Package: com.minazuki.htoa
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.htoa_0.0.1_iphoneos-arm.deb
+Size: 3762
+MD5sum: 566745d03cd8c8d6259075ce96331b38
+SHA1: 3cc9c333efe007b9150dc4cbcd58db65bd9c13d6
+SHA256: 1491399a818fdfeff49bea2b53224465030f2b0736dcf20bbf50b8aa0ce620fa
+SHA512: bcf97574c141bf5596769271b74888074fccfece8c0ef907d990c30596ca23a777df453e9e617fa5ca8c83e389573eff5cf383703f192de5d21a23fea0210ddb
+Description: Hide other Twitter accounts.
+Name: HideTwOtherAccount
+Depiction: https://minazukidev.github.io/html/HideTwOtherAccount/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.iconborder
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 364
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./deb/com.minazuki.iconborder_0.0.1_iphoneos-arm.deb
+Size: 56502
+MD5sum: bbf9eb146dcf721abd7e6e7e8fc78ea4
+SHA1: e7a856b36f184d5c299b19e646f1d55bf7a908f5
+SHA256: 8feb6ff0a88bc6b283f9269744e0e61a560fa97643f4b3a0c98549bcb44fc845
+SHA512: d604d23ab74e2bf0f35419a027e4542edda363aafe8e111f2325f712a5f08556b191e9f434cb4c32072895ae58fc1f78466b95273cb2efe3c08e8227ef3612ea
+Description: Border icons and change corners.
+Name: IconBorder
+Depiction: https://minazukidev.github.io/html/IconBorder/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.iphone11promaxcamera
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.iphone11promaxcamera_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3674
+MD5sum: 9c4fd6f9d0bb731d1eba0d10b5843721
+SHA1: 2634cd0b0022bede25a4c04afc5a2304e1daaabf
+SHA256: 7780ca6ff8dc0a120dfb97ee30c001a2dfc9c686c291d4290e386cc2a3065ee2
+SHA512: b9c0b052e2de2b0d50173b45467a5149c8b9f7fd8ad15b18978b409991749ddd82aa5eaa74bc3a3abcc7653eb9d00535ea3112191389ae496ca8485a19779578
+Description: An awesome MobileSubstrate tweak!
+Name: iPhone11ProMaxCamera
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.lsclockposition
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.lsclockposition_0.0.1_iphoneos-arm.deb
+Size: 3686
+MD5sum: 55dda5e1bf096fffefd568eb0f3be0d3
+SHA1: cfb3f8882c33f224704df55ea598f37cffcce246
+SHA256: dbf694905f2842848727f2b888923cf7e96da5e5509eb58ab854af2c3cfc63a5
+SHA512: 16f3958a3dd454c8809f1810cfb7f34390b578bceb16ead1a46cb9edbb3d346427b3651fc72ad90fa44cb19e456c06448964d355d8e79a5b2584eb7cb30269a7
+Description: Change the location of the clock on the lock screen.
+Name: LSClockPositon
+Depiction: https://minazukidev.github.io/html/LSClockPosition/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.mktbypass
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.mktbypass_0.0.1_iphoneos-arm.deb
+Size: 4816
+MD5sum: d8434c5519689529dd91328a67690e6c
+SHA1: f67ba3a58ee8f206b9fbf89cf8a31040fe318314
+SHA256: 658d86ec0ed254300a65390473cca920b6af45ffd75306588b7890b2a5342eb0
+SHA512: f9ddaaa8ea6d51cce5d34ee2a7432c2bbf086c1d45b0067f1d22b31c77a5d13cf4e03c6476c8fbd121a09b6e644aee8d0088a2603c94a78d77265b7b3adaf912
+Description: Avoiding jailbreak detection in Mario Kart Tour.
+Name: MarioKartTourBypass
+Depiction: https://minazukidev.github.io/html/MarioKartTourBypass/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.mysiri
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mobile User
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.mysiri_0.0.1_iphoneos-arm.deb
+Size: 112908
+MD5sum: f16807ab9cd71eee4f28e34c3aa88410
+SHA1: 0e2d13ddc4a012f8da8917f495364e1eed53e30d
+SHA256: fe281eaf19df700908fd3aa50db4628ee69fd13ed6c237c1cb9f334ee79747e1
+SHA512: 2c2d87e2e95ed903e0b43c5387491e3da12b61a7ea118f69c8abfc245ffd0cf17225a527898e0b2ad620b8c902f49980cb9188e4b6dead3673d0a7f1e1b61366
+Description: An awesome MobileSubstrate tweak!
+Name: MySiri
+Author: Mobile User
+
+Package: com.minazuki.mysiri
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 432
+Depends: mobilesubstrate, com.muirey03.libimagepicker
+Filename: ./deb/com.minazuki.mysiri_0.0.2_iphoneos-arm.deb
+Size: 112958
+MD5sum: 710a13dd1b41600976c83b9518e95d5a
+SHA1: 5b456fcb6b242c343f1b3e9d2364f77274a96f6f
+SHA256: 4903fe790f97cbec65d8216c379f1ddc29a7de42f5654989327d9d0bd018e00c
+SHA512: 8f1e24cfba5d81ee3aa830af3e0c516fbff446ab4efc08eb174c30901e253a63b23311581e7a31f77ecd6a6e1d9b74f80c5561c54656311a666d2ec7ee2b391e
+Description: Display images on the Siri screen!
+Name: MySiri
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.ncsimple
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.ncsimple_0.0.1_iphoneos-arm.deb
+Size: 3958
+MD5sum: ae2dd9a856d1e853165edf25d9577b19
+SHA1: 64820f0d3476b505370bdb8bfe0c4f4f58b6d737
+SHA256: 6616816ac27d6cf32e61a492068850164dc5c2fa1c096efdfae6fd7822e478f2
+SHA512: 00734e2ffe53d8de3bd5535cb2664ecc4763c27b3fe720936ad29dcfb144cac05caa326b562a09290d891779826c6ee724e7467fa056328c49c309ea8d83cc71
+Description: Make notifications almost the same as the background color!
+Name: NCSimple
+Depiction: https://minazukidev.github.io/html/NCSimple/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.nodock
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.nodock_0.0.1_iphoneos-arm.deb
+Size: 3596
+MD5sum: 8d454b7f132936663554b2ad3e9af792
+SHA1: 9617b00bd49b82a1a85f8ca6ada29d6bbfaf6e5a
+SHA256: 35663dc61a1f74869882d3ae5ae2c09aa498ea9e9ae2d9121946a704ab2716d9
+SHA512: 4ca90201fe74d0ea51322e8af930760cad33c5cee812dccf3fa1d63ddfa0267cb0181c0cc1ec523cbf189aa705c3868bb164250e9de667947ed3b5d68ce6c867
+Description: Remove the dock.
+Name: NoDock
+Depiction: https://minazukidev.github.io/html/NoDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.nofolderbadge
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.nofolderbadge_0.0.1_iphoneos-arm.deb
+Size: 3502
+MD5sum: 746f73adf256f18af5f731b8e6fbfaf6
+SHA1: e4566daf6994e34e19f2785e6e02dfc41b37f7bb
+SHA256: d92528cc7cbdc7b3d575027a6a00d53f8fe345d108751741cf40a226fe6b4c38
+SHA512: 71ca14962db6fad355b2cf47e3064c66e3157fe90b2893f93a53706c329e28828851091557bcb3391e3a294854274dded389eaa60fdbdbabb51fb8feeb11a159
+Description: Turn off the notification badge on the folder.
+Name: NoFolderBadge
+Depiction: https://minazukidev.github.io/html/NoFolderBadge/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.noiconbadge
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.noiconbadge_0.0.1_iphoneos-arm.deb
+Size: 3610
+MD5sum: a01f3a6085fd36144211614dff300bec
+SHA1: 8986f434995297d4c8fda7ad5ef4364646d378f3
+SHA256: 8994fdfb44d98b0027792ad9f189dbcfd245e859da5cb3a021e7b55f48dd1258
+SHA512: c48b41dfae407d1aff7784a3415d4eb6ebeab3a876bab93535d6e9c5043bcfd8ef88bd11d30086edb9a59ca89505e2a84b7c8cdc5c8cad21f4efe455ba710ec1
+Description: Turn off the notification badge on the home screen.
+Name: NoIconBadge
+Depiction: https://minazukidev.github.io/html/NoIconBadge/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.paypalhidemoney
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.paypalhidemoney_0.0.1_iphoneos-arm.deb
+Size: 3642
+MD5sum: 012498ce7cb2b1c3da1604d60d82541e
+SHA1: 5a8f644ea6353fbc646353993bed39792af1ad47
+SHA256: 6046da0731916b135e827fc6f4ece1d721853fcf1770c477bb4324fdc86a12a3
+SHA512: 90d94735018208b5fd481b2b42702943c4106b5e99a356cceefb9ab649f13dd1f2364147a5ba46bd43367cee6f5589c351dea42e9a4b8cbaf39240a041ec42c2
+Description: Hide paypal money tab.
+Name: PayPalHideMoney
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.pdmenubc
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.pdmenubc_0.0.1_iphoneos-arm.deb
+Size: 3844
+MD5sum: 344f2306116ebfebaef3c9414b3fe885
+SHA1: b6c820969e714edf0dc19435c74e975463320b63
+SHA256: f9a7694736bf42073120e48cad86ff52d6d54dea777112221ad93e19a0fc2ad1
+SHA512: 4648a0b1edcfbf2f715f1172deaa5f05f9d3441c91ba76e603b28248cf2c6b970fe83bf5b78fc43472cf9cf6671c61378dc55d0f2bca16cd4a511b5a58e902a3
+Description: Change the background color of the power down menu.
+Name: PDMenuBC
+Depiction: https://minazukidev.github.io/html/PDMenuBC/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.1-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 260
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./deb/com.minazuki.powerdock_0.0.1-beta_iphoneos-arm.deb
+Size: 42806
+MD5sum: 3a8730c320c098ec4a4755106dd9076d
+SHA1: 0ef7b61e4df0af33895ae7699c0c0760d6de20f5
+SHA256: bba376f12bff9d895454a5ace92168adc6a44ea8d68f5d0ee066fa92fad7fc15
+SHA512: 63014edb7f0a11d57d1831b180eaed1155d7f111c4add52fbda10c229349a32d2306cb9586d1e9a708aa80f959eb3de81393331d054bb9bf986f9dc58abdf2c0
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.2-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 304
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./deb/com.minazuki.powerdock_0.0.2-beta_iphoneos-arm.deb
+Size: 50686
+MD5sum: 039f7f3d81b592ce33512365e6ff1eeb
+SHA1: 091d7ed4dd9f276c1b0bcd45980493bfd7b2a36d
+SHA256: b1204e953e25304816dfcfd80e637d8da409825f29b80fd14302a837c3c30bbf
+SHA512: d0447f23f8664d1296b428aac04680a445de6e63df992afe5e7cdd42b256e18279110c518b1b72ef8f24aebfc64a9cb43d8c8192b93ce6e5d81f385d390b6577
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.3-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./deb/com.minazuki.powerdock_0.0.3-beta_iphoneos-arm.deb
+Size: 68136
+MD5sum: 8b8069506a848ac01c44ebb7fd9873be
+SHA1: ef61a60622f2afdb7e402d38d9aef7bf1b7080cc
+SHA256: fdcd92f852d135cf3c151c3c7c07be98d670b947450411ff36e9202a4254a627
+SHA512: 69cad56b307842e13d3c011493f3e21a19f334242140c4383a10e87884472ccf2c39c9424d9946269a371166ba319932abcb4f6de07b160ec239d28af05e1e68
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.4-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./deb/com.minazuki.powerdock_0.0.4-beta_iphoneos-arm.deb
+Size: 105470
+MD5sum: 1e3267f57fc6d052a00fdb191ef85cda
+SHA1: 7232a18e66d624d62a25bcbf8ca22d7780335703
+SHA256: 453aa356419e57cc24d20e48ca14cc76011401286d418b3d373ae8e334277139
+SHA512: 707ae1f8dc0cd9e9579e0d3fb093a2aafcb68f2d9234fb05ec3cd1665206d0c74a30c456e71d92cc17ca5e40e5d87069ccc287b7de78d56933d4069d4baefe49
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.powerdock
+Architecture: iphoneos-arm
+Version: 0.0.5-beta
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate, preferenceloader, com.mikiyan1978.libpowercontroller
+Filename: ./deb/com.minazuki.powerdock_0.0.5-beta_iphoneos-arm.deb
+Size: 105520
+MD5sum: 3cb1b732c6e55895be6c5ebdea473776
+SHA1: 73338ad7db1903053cc2a6304662b39f6223c3b2
+SHA256: d81ced4969b0df0a8c4259cd26e470e517df1a6f3c0d373cfb5e331563145298
+SHA512: 5073ff8dc835ea291260792e1cf179a6135bc7207f63198bcd3c3964dda4f4d8ef0173e6ba726fe4dbd37d21c9ed56fe35919d76063d4ccd40219527a37d45ae
+Description: Choose a power option.
+Name: PowerDock
+Depiction: https://minazukidev.github.io/html/PowerDock/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.sceneapp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 208
+Filename: ./deb/com.minazuki.sceneapp_1.0_iphoneos-arm.deb
+Size: 14880
+MD5sum: ec269c93260b5a844242e3c8b4bf9db0
+SHA1: 1325411599e771c208128854c3c5bceb579f5156
+SHA256: 7edb9e1edfeca504057f688b12125aee5f60349b1202102bd9bf54cb96e18e96
+SHA512: 26963620cbbff3fbbbed51c3a4e24c43bec6a3fa71189448689f817b66b583fe461dd709877b36e6356aa5e5c0f29e8e9ede3d3a352e9f7ab7936cadf5cd65bb
+Description: An application that uses SceneKit.
+Name: SceneApp
+Depiction: https://minazukidev.github.io/html/SceneApp/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.settingtool
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.settingtool_0.0.1_iphoneos-arm.deb
+Size: 4058
+MD5sum: 501aefde2a17868280b61eaf04d6de00
+SHA1: ba40cdd47267ac1a6196049add6325b3170813a4
+SHA256: cb5f4e2b519f4dcf8c4d1218a98365c551c308a7982d60e9253d1b2aa7a9e7b0
+SHA512: d4ffede2454400c982ee3d7b952301fd9af3881bad5dde234fa0459380e77b4c145be60f3b4340f829bcc65a6aa6b4ba726de2b9dffe4384b826ac725de26b5f
+Description: Customize the settings app.
+Name: Setting Tool
+Depiction: https://minazukidev.github.io/html/SettingTool/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.stool
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.stool_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3896
+MD5sum: 14f4204dec965e2a51e8f62070b6fabb
+SHA1: 7f36aecdb0f2a7bf10daad07edc178da505aaee7
+SHA256: de0221dcb63ad35444ebd377a961be5d4e6c62230bcc149d7d5fe7d65ae937f7
+SHA512: 3cf8aef062bb5f592e96bd9e6c900df3d2313b44c97ff5e9277bf174678706b65cdc39477c49ad99bb147aebbed44e4e7822676e9c49098ed776e58d3eb5aa91
+Description: Customize the switcher.
+Name: Switcher Tool
+Depiction: https://minazukidev.github.io/html/SwitcherTool/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.tcolormanager
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.tcolormanager_0.0.1_iphoneos-arm.deb
+Size: 4098
+MD5sum: 979165625409311d565cd2cfe88260c9
+SHA1: d92ae635d1b6d14b099e4a4b6a820fe544535946
+SHA256: 100dd078b7b835c15f022a0d63c6e5f334c5feb91667cea2294e10f64c536a55
+SHA512: 0bc97922bf83e87dbc77662cc039adc039d15c9c85c86656aaec7a7d9155d274600e2812f665ed5f85c9768811b8984b368220f75dccf8509f046e2e7312bcd6
+Description: An awesome MobileSubstrate tweak!
+Name: TColorManager
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.tfollowalert
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.tfollowalert_0.0.1_iphoneos-arm.deb
+Size: 8476
+MD5sum: a3d8420eabd0bc5b0d4447b53ff2b97a
+SHA1: 60ef4d6b98ffce69cb44c3107bf07f6a2a0c57e1
+SHA256: a2598687df42e0f864694769e431b4209c17b79fca2f3e8e9a7b7e296fa6e6e5
+SHA512: cd5ec52d12b5f9a72cac2c61c92cad6d3c56910fb93ba3f6bfe6f79556534c941e3eb5fe77f5bf806e670b578fe5742204c97424baf6f48658904a81400a2eda
+Description: Twitter follow-up alert.
+Name: TFollowAlert
+Depiction: https://minazukidev.github.io/html/TFollowAlert/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.zbypass
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Minazuki <minazukidev@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./deb/com.minazuki.zbypass_0.0.1_iphoneos-arm.deb
+Size: 4302
+MD5sum: 2d1e06f850c2954422732eb03c2ce43c
+SHA1: 4133c0aa394fe930a220c929e5f1bdebdc6b7e3e
+SHA256: 8be0cceaf96e72704ba4bd938ecb85510f71f177d327822301d2bcd05b875865
+SHA512: e1a4a07b35d1f755c2bc7da279f42156bfdf420e692abce2442c00f8d15f8700da60b40104517d22329554114e22346b89eb5388d410cce0353db0d4bb446c98
+Description: Avoid jailbreak detection for Zoom.
+Name: ZoomBypass
+Depiction: https://minazukidev.github.io/html/ZoomBypass/index.html
+Author: Minazuki <minazukidev@gmail.com>
+
+Package: com.minazuki.du
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Minazuki
+Installed-Size:
+Depends:
+Filename: ./deb/du.deb
+Size: 90740
+MD5sum: c4235b0469c7cc282567cac1f08761c3
+SHA1: 5ebbeab4cccc1085a8f345a0f78a2ef7da9988ee
+SHA256: a6a8372db47dfd4597ee1c2c104887caea2960e9ebc084ed8762252717163a9b
+SHA512: e09511419e6e23d7bae143fdef30f44f046ed2df9b171cbb7c974540264454385ec16e76ef7980c04ae899ada2767810d121a9e7aa678b9a3bb7bca3b90f07ed
+Homepage:
+Description: du (Chimera Support)
+Tag: purpose::extension
+Author: Minazuki
+Name: du (Chimera Support)
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
+Depiction:
+Sponsor:
+dev: Minazuki
+icon: https://minazukidev.github.io/icon/systemicon.png
+
+Package: com.minazuki.libdb62
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Minazuki
+Installed-Size:
+Depends:
+Filename: ./deb/libdb-6.2.deb
+Size: 615984
+MD5sum: 63bff0fd350dd15306f6ce6bd4d15a0a
+SHA1: 50fe226ff54aa4a6a489ef9cbef7df3f638f749f
+SHA256: 09486533ab63527cec3bb9939b3fee4fcde7308c852a9a5a4603ac287e0b27a2
+SHA512: de86b775f0de752256ea937885a6d89fef2782442f01a5f97da647ee123f74fb1d02ff362d8a913cbe47dc14666ba3974fef65e42883c96fbca824e157de216f
+Homepage:
+Description: libdb-6.2
+Tag: purpose::extension
+Author: Minazuki
+Name: libdb-6.2
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
+Depiction:
+Sponsor:
+dev: Minazuki
+icon: https://minazukidev.github.io/icon/systemicon.png
+
+Package: com.minazuki.md5sum
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: System
+Maintainer: Minazuki
+Installed-Size:
+Depends:
+Filename: ./deb/md5sum.deb
+Size: 33764
+MD5sum: 4c7acad8d2a757c216dd58d49ffb63c3
+SHA1: 355123c8016262c5f83661d3638fde04ccf80060
+SHA256: 9949ca22e07474db5f9e66aa337afe84ee301f7371a38a8d3e73fa7128fe1a6b
+SHA512: 6d783240a2612355d17a2bab5a194c0f59f7c71c7f43c96fe7b1be12ead029a0d52e4c69a1bcdae337817e0c32e3815ba3f759b3fce526589f564fbf7d19401d
+Homepage:
+Description: md5sum
+Tag: purpose::extension
+Author: Minazuki
+Name: md5sum
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
+Depiction:
+Sponsor:
+dev: Minazuki
+icon: https://minazukidev.github.io/icon/systemicon.png
+
+Package: com.minazuki.uicache
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Terminal_Support
+Maintainer: Minazuki
+Installed-Size:
+Depends:
+Filename: ./deb/uicache.deb
+Size: 928
+MD5sum: b19faf2d0f263a8e27358381540186dc
+SHA1: 52222e205f01bbc663211171715a71f5da7a335b
+SHA256: bfd94408021d9fc059ecb52e81c6879d48c53198ef53bd9853bc0a4cacf6e44c
+SHA512: 82da77d3b4cdef1ae2b191957756d69dde4b30f5869052cf98930ce4dcd748db257889b9db2c50e4f26c1a9d3f66a5895a1cba5f584eb9bfbed59a6b1f0c4db4
+Homepage:
+Description: uicache -all ≫ u only.
+Tag: purpose::extension
+Author: Minazuki
+Name: uicache (Chimera)
+SileoDepiction: https://minazukidev.github.io/json/terminal/terminal.json
+Depiction:
+Sponsor:
+dev: Minazuki
+icon: https://minazukidev.github.io/icon/terminalicon.png
+
